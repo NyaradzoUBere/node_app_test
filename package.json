@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "First express project for RVW learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Flatiron",
+    "video",
+    "walkthrough"
+  ],
+  "author": "Nyaradzo Bere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
